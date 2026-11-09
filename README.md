@@ -38,6 +38,11 @@ Precisão (Precision)
 Revocação (Recall)
 F1-Score
 Matriz de Confusão
+
+## Referências
+
+- https://medium.com/@bashiralam185/top-20-classification-algorithms-in-machine-learning-e40d9dda2461
+
 ## Integrantes
 Daniel Vilano Soares
 Gustavo Henrique Venâncio Meirelles de Souza
